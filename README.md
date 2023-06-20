@@ -16,7 +16,6 @@
                 <h3>
                 <img src='https://media.discordapp.net/attachments/691611420860743711/1116859328176083034/NHdT7tTMSfnz5oTKcJbwUP.jpg?width=720&height=288'
                     align="left" weight="200" height="200">
-                - <a href='https://discord.gg/NAV3YEFb'>Discord</a>  <br>
                 - <a href='https://www.youtube.com/channel/UCOStly82OMp-t_FfBvgI-ew'>Youtube</a>  <br>
                 - <a href='https://twitter.com/stayaway1992'>Twitter</a> <br>
               </h3>
