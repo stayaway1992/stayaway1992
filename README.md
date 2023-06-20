@@ -19,6 +19,7 @@
                     <br><br><br><br>
                 - <a href='https://www.youtube.com/channel/UCOStly82OMp-t_FfBvgI-ew'>Youtube</a>  <br>
                 - <a href='https://twitter.com/stayaway1992'>Twitter</a> <br>
+                - <a href='https://discord.gg/qa3S7qdbB6'>Discord</a> <br>
               </h3>
       </div>
       <br><br><br><br><br>
