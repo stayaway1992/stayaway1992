@@ -17,8 +17,8 @@
       <div align="left">
           <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe" align="right">
                 <h3>
-                <img src='https://media.discordapp.net/attachments/691611420860743711/1116859328176083034/NHdT7tTMSfnz5oTKcJbwUP.jpg?width=720&height=288'
-                    align="left" weight="200" height="200">
+                <img src='https://media.tenor.com/i7Gli7YY6T8AAAAC/driveby-kollegah.gif'
+                    align="left" weight="300" height="300">
                     <br><br><br><br>
                 〆 <a href='https://www.youtube.com/channel/UCOStly82OMp-t_FfBvgI-ew'>Youtube</a>  <br>
                 〆 <a href='https://twitter.com/stayaway1992'>Twitter</a> <br>
