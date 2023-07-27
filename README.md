@@ -6,10 +6,9 @@
             <h3>
                 <h2> Welcome To The Real World :globe_with_meridians:  </h2>
                 〆 French CyberSec Student <br>
-                〆 Interested in CTF, video games and ping pong wallah :ping_pong:  <br>
+                〆 Interested in CTF, wealthness, racing, video games <br>
                 〆 Studying to get OSCP <br>
                 〆 #Hustler'sUniversity4.0 <br>
-                〆 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬: 𝐧𝐢𝐠/𝐡𝐞𝐫. <br><br>
             </h3>
         </div><br><br><br><br><br><br>
       <h1 align="center"> - Social medias - </h1>
