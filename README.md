@@ -14,7 +14,6 @@
       <h1 align="center"> - Social medias - </h1>
       <br><br>
       <div align="left">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe" align="right">
                 <h3>
                 <img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Aftermath_of_Seattle_fire_of_June_6%2C_1889%2C_showing_bread_line_leading_to_tent_of_Tacoma_Relief_Bureau_%28CURTIS_533%29.jpeg'
                     align="left" weight="300" height="300">
@@ -26,6 +25,6 @@
       </div>
       <br><br><br><br><br><br><br>
       <h1 align="center"> - lxst cxntury <h1>
-      <h2 align="center"> https://open.spotify.com/track/21qDqKhSzETsP7Sxu1MzhJ?si=fd0c2fe0517444c8 <h2>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe">
     </center>
 </body>
