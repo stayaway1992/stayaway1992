@@ -28,7 +28,9 @@
       <br><br><br><br><br><br><br>
       <h1 align="center"> - About me <h1>
       <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe"> <br>
+        <h3>
          〆 <a href='https://kalix.gitbook.io/kalix/'> My Notebook </a> <br>
          〆 <a href='https://kalix.gitbook.io/kalixou/'> My CTF Write-Ups </a> <br>
+        </h3>
     </center>
 </body>
