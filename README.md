@@ -5,10 +5,12 @@
             <img src='https://lanyard.cnrad.dev/api/280138655081955339' align="right">
             <h3>
                 <h2> Welcome To The Real World :globe_with_meridians:  </h2>
-                〆 French CyberSec Student <br>
-                〆 Interested in CTF, wealthness, racing, video games <br>
+                〆 French Second Year CyberSec Student <br>
+                〆 Interested in CTF, wealthness, racing, video games and <br>
+                〆 Interested in Crypto and Real Estate Investment <br>
                 〆 Studying to get OSCP <br>
-                〆 #Hustler'sUniversity4.0 <br>
+                〆 #Hustler's University 4.0 <br>
+                〆 Ambitious, moving to Switzerland soon
             </h3>
         </div><br><br><br><br><br><br>
       <h1 align="center"> - Social medias - </h1>
@@ -24,7 +26,9 @@
               </h3>
       </div>
       <br><br><br><br><br><br><br>
-      <h1 align="center"> - lxst cxntury <h1>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe">
+      <h1 align="center"> - About me <h1>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe"> <br>
+          <a href='https://kalix.gitbook.io/kalix/'> My Notebook </a> <br>
+          <a href='https://kalix.gitbook.io/kalixou/'> My CTF Write-Ups </a> <br>
     </center>
 </body>
