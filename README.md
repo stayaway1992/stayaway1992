@@ -20,9 +20,6 @@
                 <img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Aftermath_of_Seattle_fire_of_June_6%2C_1889%2C_showing_bread_line_leading_to_tent_of_Tacoma_Relief_Bureau_%28CURTIS_533%29.jpeg'
                     align="left" weight="300" height="300">
                     <br><br><br><br>
-                〆 <a href='https://www.youtube.com/channel/UCOStly82OMp-t_FfBvgI-ew'>Youtube</a>  <br>
-                〆 <a href='https://twitter.com/stayaway1992'>Twitter</a> <br>
-                〆 <a href='https://discord.gg/qa3S7qdbB6'>Discord</a> <br>
               </h3>
       </div>
       <br><br><br><br><br><br><br>
