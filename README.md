@@ -13,21 +13,12 @@
                 〆 Ambitious, moving to Switzerland soon
             </h3>
         </div><br><br><br><br><br><br>
-      <h1 align="center"> - Social medias - </h1>
-      <br><br>
-      <div align="left">
-                <h3>
-                <img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Aftermath_of_Seattle_fire_of_June_6%2C_1889%2C_showing_bread_line_leading_to_tent_of_Tacoma_Relief_Bureau_%28CURTIS_533%29.jpeg'
-                    align="left" weight="300" height="300">
-                    <br><br><br><br>
-              </h3>
-      </div>
-      <br><br><br><br><br><br><br>
       <h1 align="center"> - About me <h1>
       <img src="https://cdn.discordapp.com/attachments/691611420860743711/1141065674584760420/Frozzinours.png" alt="tryhackme"> <br>
         <h3>
          〆 <a href='https://kalix.gitbook.io/kalix/'> My Notebook </a> <br>
          〆 <a href='https://kalix.gitbook.io/kalixou/'> My CTF Write-Ups </a> <br>
+         〆 <a href='https://www.linkedin.com/in/alixleduc/'> Linkedin </a> <br>  
         </h3>
     </center>
 </body>
