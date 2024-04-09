@@ -14,7 +14,7 @@
             </h3>
         </div><br><br><br><br><br><br>
       <h1 align="center"> - About me <h1>
-      <img src="https://cdn.discordapp.com/attachments/691611420860743711/1141065674584760420/Frozzinours.png" alt="tryhackme"> <br>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Frozzinours.png" alt="TryHackMe"> <br>
         <h3>
          〆 <a href='https://kalix.gitbook.io/kalix/'> My Notebook </a> <br>
          〆 <a href='https://kalix.gitbook.io/kalixou/'> My CTF Write-Ups </a> <br>
